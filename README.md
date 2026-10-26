@@ -1,10 +1,6 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-## aws0091
-
-## Yashu
-$YASHU
 ## EUID
-
+aws0091
 ## Favorite Professor
-$YASHU
+YASHU
